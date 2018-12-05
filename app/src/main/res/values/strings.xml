@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="new_timer_button">New Timer</string>
+    <string name="info_btn">Information</string>
+    <string name="timers_txt">Your Timers</string>
+</resources>
